@@ -1,6 +1,18 @@
 ### Hi there 👋
 
 
+### Hi there 👋, Mikarlo Francis
+#### Software Engineer
+Currently aspiring to be a software engineer with main focused on Web and Mobile development currently learning several languages such as C#, Java, Flutter and Xamarin and some experience with others like .Net core and PHP
+
+Skills: Java/C#/Xamarin/Flutter
+
+- 🔭 I’m currently working on https://github.com/Arcanesky21/final_project 
+- 🌱 I’m currently learning Flutter/Dart and Xamarin 
+
+
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcanesky21)](https://github.com/anuraghazra/github-readme-stats)
