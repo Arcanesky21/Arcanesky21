@@ -11,6 +11,7 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" style="padding-right:10px;" />
+
 - 🔭 I’m currently working on https://github.com/Arcanesky21/final_project 
 - 🌱 I’m currently learning Flutter/Dart and Xamarin 
 
