@@ -15,6 +15,8 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 - 🔭 I’m currently working on https://github.com/Arcanesky21/final_project 
 - 🌱 I’m currently learning Flutter/Dart and Xamarin 
 
+<br />
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arcanesky21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mikarlo-francis-a8a65b20b//)  
 
