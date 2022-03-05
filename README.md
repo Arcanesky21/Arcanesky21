@@ -2,7 +2,7 @@
 #### Software Engineer
 Currently aspiring to be a software engineer with main focused on Web and Mobile development currently learning several languages such as C#, Java, Flutter and Xamarin and some experience with others like .Net core and PHP
 
-Skills and Experience:
+## Skills and Experience:
 
 * :computer:	HTML/CSS/JS/PHP/SQL
 * :iphone:	  Flutter/Xamarin
