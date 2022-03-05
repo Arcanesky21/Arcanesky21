@@ -8,10 +8,12 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/spring/spring-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/android/android-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
