@@ -15,6 +15,7 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/android/android-original.svg" style="padding-right:10px;" />
 <br />
+<br />
 - 🔭 I’m currently working on https://github.com/Arcanesky21/final_project
 - 🌱 I’m currently learning Flutter/Dart and Xamarin 
 <br />
