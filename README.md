@@ -6,14 +6,14 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 
 * :computer:	HTML/CSS/JS/PHP/SQL
 * :iphone:	  Flutter/Xamarin
-* :coffee:	  Java
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" style="padding-right:10px;" />]
+
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" style="padding-right:10px;" />]
 
 
