@@ -28,7 +28,6 @@ Currently aspiring to be a software engineer with main focused on Web and Mobile
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcanesky21&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Arcanesky21)  
 <!--
 **Arcanesky21/Arcanesky21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
